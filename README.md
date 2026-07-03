@@ -117,9 +117,8 @@ print(response)
 
 ## 📊 Dataset
 
-- **Source:** [COVID-19 World Vaccination Progress](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
-- **Key columns used:** `country`, `date`, `people_vaccinated_per_hundred`, `daily_vaccinations`
-
+- - **Source:** [COVID-19 World Vaccination Progress Data](https://www.kaggle.com/datasets/fedesoriano/covid-19-vaccination-progress)
+- **Key columns used:** `location`, `date`, `people_vaccinated_per_hundred`, `daily_vaccinations`
 ---
 
 ## 🔐 Security
