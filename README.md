@@ -86,13 +86,13 @@ cp .env.example .env
 
 ### 4. Download the Dataset
 
-Download the COVID-19 World Vaccination Progress dataset from Kaggle:
-- URL: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress
-- Save as: `data/vaccinations.csv`
+Download the COVID-19 World Vaccination Progress Data from Kaggle:
+- URL: https://www.kaggle.com/datasets/fedesoriano/covid-19-vaccination-progress
+- Save as: `data/owid-covid-data.csv`
 
 ```bash
 mkdir data
-# Place vaccinations.csv inside data/
+# Place owid-covid-data.csv inside data/
 ```
 
 ### 5. Run the Agent
