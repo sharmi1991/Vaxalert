@@ -87,7 +87,7 @@ cp .env.example .env
 ### 4. Download the Dataset
 
 Download the COVID-19 World Vaccination Progress Data from Kaggle:
-- URL: https://www.kaggle.com/datasets/fedesoriano/covid-19-vaccination-progress
+- URL: https://www.kaggle.com/datasets/fedesoriano/coronavirus-covid19-vaccinations-data
 - Save as: `data/owid-covid-data.csv`
 
 ```bash
@@ -117,7 +117,7 @@ print(response)
 
 ## 📊 Dataset
 
-- - **Source:** (https://www.kaggle.com/datasets/fedesoriano/covid-19-vaccination-progress)
+- - **Source:** https://www.kaggle.com/datasets/fedesoriano/coronavirus-covid19-vaccinations-data
 - **Key columns used:** `location`, `date`, `people_vaccinated_per_hundred`, `daily_vaccinations`
 ---
 
